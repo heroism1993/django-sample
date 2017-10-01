@@ -26,7 +26,8 @@ SECRET_KEY = 'vmk9yf1%f8##*@3dm%i$3l_i(qe*kiaq_hh1u8qasz69-qqle)'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-        '192.168.1.100'
+        '192.168.1.100',
+        'dsd.heroism.win',
         ]
 
 
